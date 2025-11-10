@@ -35,7 +35,7 @@ Devel branch - 3proxy 10 (don't use it)
 
 install git and build-essential packages, use
 
-git clone https://github.com/z3apa3a/3proxy
+git clone https://github.com/3proxy/3proxy.git
 cd 3proxy
 ln -s Makefile.Linux Makefile
 make
